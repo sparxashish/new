@@ -1,6 +1,8 @@
 <?php
 
-	/************************ WELCOMES IN GIT AND GIT JOURNEY ***************************/
-
+	
+	/************************ WELCOMES IN PHP FILES HAPPY CODING ***************************/
+	printf("Welocmes Programmers!!!!!!");
+	
 
 ?>
